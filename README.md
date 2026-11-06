@@ -1,6 +1,25 @@
+<div align="center">
+
+<img src="logo-regent-sub.png" alt="Regent University College Logo" width="200"/>
+
 # Python Teaching Examples
 
-Regent University College, Accra, Ghana
+**Regent University College, Accra, Ghana**  
+Department of Engineering · Level 200 (L200)
+
+</div>
+
+<div align="center">
+
+[![Course](https://img.shields.io/badge/Course-Python%20Programming-0B3D91?style=for-the-badge&logo=python&logoColor=white)](.)
+[![Department](https://img.shields.io/badge/Department-Engineering-0B3D91?style=flat-square)](.)
+[![Level](https://img.shields.io/badge/Level-L200-0B3D91?style=flat-square)](.)
+[![Teaching Assistant](https://img.shields.io/badge/TA-Stanislus%20E.-Onwuneme-0B3D91?style=flat-square&logo=graduation&logoColor=white)](.)
+[![Supervisor](https://img.shields.io/badge/Supervisor-Ing.%20David%20Fiase-0B3D91?style=flat-square&logo=school&logoColor=white)](.)
+
+</div>
+
+---
 
 This repository contains Python scripts and lecture materials organized as a
 **progression of concepts** — from absolute basics to real-world applications.
