@@ -11,18 +11,18 @@ Department of Engineering · Level 200 (L200)
 
 <div align="center">
 
-[![Course](https://img.shields.io/badge/Course-Python%20Programming-0B3D91?style=for-the-badge&logo=python&logoColor=white)](.)
-[![Department](https://img.shields.io/badge/Department-Engineering-0B3D91?style=flat-square)](.)
-[![Level](https://img.shields.io/badge/Level-L200-0B3D91?style=flat-square)](.)
-[![Teaching Assistant](https://img.shields.io/badge/TA-Stanislus%20E.-Onwuneme-0B3D91?style=flat-square&logo=graduation&logoColor=white)](.)
-[![Supervisor](https://img.shields.io/badge/Supervisor-Ing.%20David%20Fiase-0B3D91?style=flat-square&logo=school&logoColor=white)](.)
+[![Course: Python Programming](https://img.shields.io/badge/Course-Python%20Programming-0B3D91?style=for-the-badge&logo=python&logoColor=white)](.)
+[![Department: Engineering](https://img.shields.io/badge/Department-Engineering-0B3D91?style=flat-square)](.)
+[![Level: L200](https://img.shields.io/badge/Level-L200-0B3D91?style=flat-square)](.)
+[![TA: Stanislus E.-Onwuneme](https://img.shields.io/badge/TA-Stanislus%20E.-Onwuneme-0B3D91?style=flat-square&logoColor=white)](.)
+[![Supervisor: Ing. David Fiase](https://img.shields.io/badge/Supervisor-Ing.%20David%20Fiase-0B3D91?style=flat-square&logoColor=white)](.)
 
 </div>
 
 ---
 
 This repository contains Python scripts and lecture materials organized as a
-**progression of concepts** — from absolute basics to real-world applications.
+progression of concepts, from absolute basics to real-world applications.
 Work through the folders in order; each builds on the previous one.
 
 ## Repository structure (suggested learning order)
@@ -55,4 +55,4 @@ pip install numpy
 
 ## License
 
-Teaching material — free to use and adapt for classes.
+Teaching material: free to use and adapt for classes.
