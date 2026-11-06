@@ -2,34 +2,18 @@
 
 Regent University College, Accra, Ghana
 
-This repository contains Python scripts and lecture materials I used for two
-class sessions:
+This repository contains Python scripts and lecture materials organized as a
+**progression of concepts** — from absolute basics to real-world applications.
+Work through the folders in order; each builds on the previous one.
 
-* **Regular session** — weekday classes (`regular/`)
-* **Weekend session** — weekend classes (`weekend/`)
-
-A separate **Encapsulation** topic (`encapsulation/`) supplements both
-sessions with object-oriented programming material.
-
-## Purpose
-
-These are teaching examples for students learning Python. Each script is
-self-contained, heavily commented, and written so that students can read it,
-run it, and experiment with it. File names describe what each script does.
-
-## Repository layout
+## Repository structure (suggested learning order)
 
 ```
-regular/          Regular (weekday) session
-  01_basics/      Variables, arithmetic, functions, lists, conditionals, dicts
-  02_electronics/ Voltage divider, Shockley diode, NumPy intro
-  03_oop/         Classes, inheritance, polymorphism (+ lecture slides)
-
-weekend/          Weekend session
-  01_basics/      Input, conditionals, charge calculation, even numbers
-  02_oop/         Capacitor class
-
-encapsulation/    Encapsulation and @property (getter/setter, validation)
+01_intro_basics/          Variables, arithmetic, input, conditionals
+02_data_structures/       Lists and dictionaries (+ lecture plan and slides)
+03_functions/             Defining and calling functions
+04_object_oriented/       Classes, inheritance, polymorphism, encapsulation (+ slides)
+05_applications_electronics/  Real-world electronics: voltage divider, diode, NumPy
 ```
 
 ## Getting started
@@ -40,7 +24,7 @@ installed, and how students and instructors should use this repository.
 ## Requirements
 
 * Python 3 (tested with Python 3.14)
-* NumPy (only for `regular/02_electronics/numpy_matrix_intro.py`)
+* NumPy (only for `05_applications_electronics/numpy_matrix_intro.py`)
 
 ```bash
 pip install numpy
