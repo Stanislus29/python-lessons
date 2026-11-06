@@ -18,7 +18,11 @@ Work through the folders in order; each builds on the previous one.
 
 ## Getting started
 
-See **USAGE.md** for guidelines on how to run the scripts, what you need
+If you are new to Python and Git, start with **SETUP.md** — it walks you
+through installing Python, Git, VS Code, and the Python extension, and shows
+you how to clone this repository.
+
+Then see **USAGE.md** for guidelines on how to run the scripts, what you need
 installed, and how students and instructors should use this repository.
 
 ## Requirements

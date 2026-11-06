@@ -14,6 +14,10 @@ teaching examples in this repository.
   exercises. Each folder has its own README with a topic guide, and some
   folders include lecture plans and slide files.
 
+**New to Python and Git?** Start with **SETUP.md** — it walks you through
+installing Python, Git, VS Code, and the Python extension, and shows you how
+to clone this repository.
+
 ## 2. Suggested progression
 
 Work through the folders in this order:
