@@ -42,8 +42,8 @@ Each script is self-contained and can be run independently.
 ## Source lesson plan
 
 The full lesson plan (objectives, schedule, exercises, expected answers, and
-common mistakes) lives at:
+common mistakes) lives in this folder:
 
 ```
-regular/01_basics/data_structures_lecture.md
+data-structures/data_structures_lecture.md
 ```
