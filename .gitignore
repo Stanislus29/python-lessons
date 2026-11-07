@@ -13,3 +13,8 @@ Thumbs.db
 
 # Local output
 *.log
+
+# Lecture plans (kept on disk, not versioned)
+02_data_structures/data_structures_lecture.md
+04_object_oriented/inheritance_lecture.md
+06_vectorization/python_vectorization_45_min_lecture.md
